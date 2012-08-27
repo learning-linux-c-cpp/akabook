@@ -14,7 +14,7 @@ So this is four years of college education vs. four months of vocational trainin
 
 .. crossreference for interpreter above
 
-Our training course is comprised of five sections::
+Our training course is comprised of five sections:
 
 #. Some basic Linux commands and operations. To be prepared for the next section, students will learn to do basic file and disk operations, work with an text editor and run a compiler.
 #. C programming. In this section students will gain a thorough understanding of C language syntax as well as the functioning of C compiler and linker.
