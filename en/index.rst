@@ -14,6 +14,14 @@ PART III: Linux System Programming
 
 PART IV: from C to C++
 
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   cppbasics
+   cppoo
+   cppgp
+
 PART V: from C/C++ to Dynamic Programming Language
 
 APPENDIX
